@@ -1,0 +1,42 @@
+[
+    {
+    "name":"pink",
+    "color":"#FF6663"
+},
+    {
+    "name":"gray",
+    "color":"#333333"
+},
+    {
+    "name":"black",
+    "color":"#000000"
+},
+    {
+    "name":"green",
+    "color":"#38BB14"
+},
+    {
+    "name":"red",
+    "color":"#C90B0B"
+},
+    {
+    "name":"orange",
+    "color":"#FF8000"
+},
+    {
+    "name":"yellow",
+    "color":"#FFF500"
+},
+    {
+    "name":"Light grey",
+    "color":"#CCCCCC"
+},
+    {
+    "name":"Purple",
+    "color":"#7E41A2"
+},
+    {
+    "name":"Brown",
+    "color":"#C14911"
+}
+]
